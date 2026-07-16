@@ -28,7 +28,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(./img/WALLPAPER_Goku.jpg) no-repeat center center/cover;
+    background: url(./WALLPAPER_Goku.jpg) no-repeat center center/cover;
 }
 
 .todo-app{
